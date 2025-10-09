@@ -1,1 +1,1 @@
-# macos-auto-setup
+# macOS Auto Setup
