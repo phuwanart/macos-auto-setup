@@ -1,1 +1,1 @@
-# macOS Auto Setup
+# 🛠️ macOS Auto Setup
