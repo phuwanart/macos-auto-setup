@@ -8,3 +8,9 @@ done
 
 export RUBYOPT="-r$HOME/.rubyopenssl_default_store.rb $RUBYOPT"
 eval "$(mise activate zsh)"
+
+# The following lines have been added by Docker Desktop to enable Docker CLI completions.
+fpath=(/Users/phuwanart/.docker/completions $fpath)
+autoload -Uz compinit
+compinit
+# End of Docker CLI completions
