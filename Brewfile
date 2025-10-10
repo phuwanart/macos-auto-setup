@@ -30,6 +30,9 @@ cask "movist-pro"
 cask "cloudflare-warp"
 cask "transmission"
 cask "ollama-app"
+cask "google-chrome"
+cask "tableplus"
+cask "screenflow"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
