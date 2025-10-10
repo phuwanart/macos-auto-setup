@@ -6,6 +6,10 @@ brew "mise"
 brew "ruby-build"
 
 # Utilities
+brew "coreutils"
+brew "gnu-sed"
+brew "findutils"
+brew "gawk"
 
 # Applications
 cask "ghostty"

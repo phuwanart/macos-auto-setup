@@ -31,8 +31,8 @@ fi
 if [[ ! -d "${XDG_DATA_HOME:-$HOME/.local/share}/zap" ]]; then
   echo "Installing Zap ZSH plugin manager..."
   zsh <(curl -s https://raw.githubusercontent.com/zap-zsh/zap/master/install.zsh) --branch release-v1
-  # echo "Removing .zshrc so stow can manage it..."
-  # rm -f ~/.zshrc
+  echo "Removing .zshrc so stow can manage it..."
+  rm -f ~/.zshrc
 fi
 
 # Re-source Homebrew env just in case
