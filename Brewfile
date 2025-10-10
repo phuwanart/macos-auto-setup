@@ -11,6 +11,7 @@ brew "coreutils"
 brew "gnu-sed"
 brew "findutils"
 brew "gawk"
+brew "starship"
 
 # Applications
 cask "ghostty"
@@ -23,6 +24,9 @@ cask "ollama-app"
 cask "dropbox"
 cask "1password"
 cask "chronosync"
+cask "transmit"
+cask "elmedia-player"
+cask "movist-pro"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
