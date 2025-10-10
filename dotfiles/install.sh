@@ -2,7 +2,7 @@
 
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
-DOT_FOLDERS="ghostty"
+DOT_FOLDERS="ghostty,ruby"
 
 echo "[+] Dotfiles :: $SCRIPT_DIR"
 
