@@ -4,6 +4,7 @@ brew "stow"
 # Development
 brew "mise"
 brew "ruby-build"
+brew "ssh-copy-id"
 
 # Utilities
 brew "coreutils"
