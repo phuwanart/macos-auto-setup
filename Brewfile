@@ -5,6 +5,9 @@ brew "stow"
 brew "mise"
 brew "ruby-build"
 brew "ssh-copy-id"
+# brew "mysql"
+# brew "postgresql@18"
+# brew "pgvector"
 
 # Utilities
 brew "coreutils"
@@ -33,6 +36,7 @@ cask "ollama-app"
 cask "google-chrome"
 cask "tableplus"
 cask "screenflow"
+cask "mweb-pro"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
