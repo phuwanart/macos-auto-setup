@@ -27,6 +27,9 @@ cask "chronosync"
 cask "transmit"
 cask "elmedia-player"
 cask "movist-pro"
+cask "cloudflare-warp"
+cask "transmission"
+cask "ollama-app"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
