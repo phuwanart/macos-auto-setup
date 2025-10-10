@@ -39,8 +39,9 @@ fi
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Use GNU Stow to symlink dotfiles
-# echo "Setting up dotfiles with GNU Stow..."
-# stow --target="$HOME" --dir=./dotfiles zsh vim nvim aerospace
+echo "Setting up dotfiles with GNU Stow..."
+cd "dotfiles"
+exec ./install.sh
 
 # Optionally restart the shell
 exec zsh -l
