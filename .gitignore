@@ -1,0 +1,10 @@
+.DS_Store
+
+# Nvim ignores
+**/*/lazy-lock.json
+**/*/lazyvim.json
+
+# TMP ignores
+tmux/.config/tmux/plugins
+
+kitty/.config/kitty/kitty.conf.bak

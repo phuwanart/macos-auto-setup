@@ -17,6 +17,9 @@ cask "raycast"
 cask "visual-studio-code"
 cask "cleanmymac"
 cask "playcover-community"
+cask "docker-desktop"
+cask "ollama-app"
+cask "dropbox"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
