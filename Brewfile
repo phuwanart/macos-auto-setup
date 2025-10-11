@@ -1,6 +1,7 @@
 # CLI Tools
 brew "stow"
 brew "tmux"
+brew "neovim"
 
 # Development
 brew "mise"
@@ -9,6 +10,9 @@ brew "ssh-copy-id"
 # brew "mysql"
 # brew "postgresql@18"
 # brew "pgvector"
+brew "ffmpeg"
+brew "imagemagick"
+brew "vips"
 
 # Utilities
 brew "coreutils"
@@ -16,9 +20,6 @@ brew "gnu-sed"
 brew "findutils"
 brew "gawk"
 brew "starship"
-brew "ffmpeg"
-brew "imagemagick"
-brew "vips"
 
 # Applications
 cask "ghostty"
