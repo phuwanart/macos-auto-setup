@@ -15,6 +15,9 @@ brew "gnu-sed"
 brew "findutils"
 brew "gawk"
 brew "starship"
+brew "ffmpeg"
+brew "imagemagick"
+brew "vips"
 
 # Applications
 cask "ghostty"
@@ -37,6 +40,7 @@ cask "google-chrome"
 cask "tableplus"
 cask "screenflow"
 cask "mweb-pro"
+cask "readdle-spark"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
