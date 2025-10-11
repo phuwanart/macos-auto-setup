@@ -1,5 +1,6 @@
 # CLI Tools
 brew "stow"
+brew "tmux"
 
 # Development
 brew "mise"
@@ -21,6 +22,7 @@ brew "vips"
 
 # Applications
 cask "ghostty"
+cask "wezterm"
 cask "raycast"
 cask "visual-studio-code"
 cask "cleanmymac"
