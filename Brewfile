@@ -1,5 +1,6 @@
 # CLI Tools
 brew "stow"
+brew "bat"
 brew "tmux"
 brew "neovim"
 
@@ -13,6 +14,7 @@ brew "ssh-copy-id"
 brew "ffmpeg"
 brew "imagemagick"
 brew "vips"
+brew "redis"
 
 # Utilities
 brew "coreutils"
