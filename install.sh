@@ -2,7 +2,7 @@
 
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 
-DOT_FOLDERS="nvim,ghostty,zsh,vim,ruby,starship,wezterm,tmux"
+DOT_FOLDERS="nvim,ghostty,zsh,vim,ruby,starship,wezterm,tmux,kitty"
 
 echo "[+] Dotfiles :: $SCRIPT_DIR"
 

@@ -46,6 +46,8 @@ cask "tableplus"
 cask "screenflow"
 cask "mweb-pro"
 cask "readdle-spark"
+cask "sourcetree"
+cask "kitty"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
