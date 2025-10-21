@@ -48,6 +48,7 @@ cask "mweb-pro"
 cask "readdle-spark"
 cask "sourcetree"
 cask "kitty"
+cask "iterm2"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
