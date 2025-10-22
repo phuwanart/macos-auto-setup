@@ -15,6 +15,7 @@ brew "ffmpeg"
 brew "imagemagick"
 brew "vips"
 brew "redis"
+brew "gh"
 
 # Utilities
 brew "coreutils"
