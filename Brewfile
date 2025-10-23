@@ -1,3 +1,5 @@
+# rubocop:disable all
+
 # CLI Tools
 brew "stow"
 brew "bat"
@@ -50,6 +52,7 @@ cask "readdle-spark"
 cask "sourcetree"
 cask "kitty"
 cask "iterm2"
+# cask "zed"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"

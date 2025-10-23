@@ -5,6 +5,14 @@
 **/*/lazyvim.json
 
 # TMP ignores
-tmux/.config/tmux/plugins
+tmux/.config/tmux/*
+!tmux/.config/tmux/tmux.conf
 
-kitty/.config/kitty/kitty.conf.bak
+# Zed ignores
+zed/.config/zed/*
+!zed/.config/zed/settings.json
+
+# Kitty ignores
+kitty/.config/kitty/*
+!kitty/.config/kitty/current-theme.conf
+!kitty/.config/kitty/kitty.conf
