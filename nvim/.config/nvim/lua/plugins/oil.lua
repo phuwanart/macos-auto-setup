@@ -22,6 +22,7 @@ return {
       },
       float = {
         padding = 5,
+        border = "rounded",
         -- max_width = 90,
         -- max_height = 90,
       },
